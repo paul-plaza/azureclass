@@ -32,7 +32,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+es un demo realizado en Angular, se utiliza graficos
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
@@ -56,57 +56,29 @@ Say what the step will be
 npm install
 ```
 
-And repeat
-
-```
-until finished
-```
-
 End with an example of getting some data out of the system or using it for a little demo.
 
 ## 🔧 Running the tests <a name = "tests"></a>
 
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
+Se puede dar clic en un boton para generar datos aleatorios.
 
 ## 🎈 Usage <a name="usage"></a>
 
-Add notes about how to use the system.
+Se puede dar clic en un boton para generar datos aleatorios.
 
 ## 🚀 Deployment <a name = "deployment"></a>
 
-Add additional notes about how to deploy this on a live system.
+ng build --prod
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
+- [Angular](https://vuejs.org/) - Web Framework
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work Paul Plaza
+- [@paulplaza](https://github.com/paul-plaza) - Initial work Paul Plaza
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+- https://openbase.io/js/ng2-charts/documentation
