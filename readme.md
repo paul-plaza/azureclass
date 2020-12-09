@@ -32,7 +32,12 @@
 
 ## 🧐 About <a name = "about"></a>
 
-es un demo realizado en Angular, se utiliza graficos
+es un demo realizado en Angular, se utiliza graficos:
+
+PUBLICACIÓN
+```
+https://salmon-cliff-0910d4c0f.azurestaticapps.net/
+```
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
